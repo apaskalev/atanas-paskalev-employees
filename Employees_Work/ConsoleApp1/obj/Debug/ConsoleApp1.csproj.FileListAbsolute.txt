@@ -1,0 +1,9 @@
+C:\Project\Employees\Employees_Work\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Project\Employees\Employees_Work\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Project\Employees\Employees_Work\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Project\Employees\Employees_Work\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Project\Employees\Employees_Work\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Project\Employees\Employees_Work\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Project\Employees\Employees_Work\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Project\Employees\Employees_Work\ConsoleApp1\obj\Debug\ConsoleApp1.Properties.Resources.resources
+C:\Project\Employees\Employees_Work\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
